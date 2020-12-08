@@ -7,4 +7,4 @@
 4. NOX pollution (PPM)
 5. Social and economic ranking
 
-Masurment from each village as was provided by the IBS was analyized using **multivariable analysis** to test for correlation. 
+Masurment from each village as was provided by the IBS and was analyized using **multivariable analysis** to test for correlation. 
