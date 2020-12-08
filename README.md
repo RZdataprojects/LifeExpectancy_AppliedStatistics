@@ -1,4 +1,6 @@
 # Life Expectancy and how it is affected as a result of environmental variables:
+** Full analysis in R **
+
 1. Number of road accidents.
 2. Percentage of adults having a higher education.
 3. New cases of cancer (normalized to 100,000 people).
